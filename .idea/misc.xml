@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Project/AsProject/AndroidPerformanceMonitorMy/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Project/AsProject/AndroidPerformanceMonitorMy/app/src/main/res/layout/activity_print_thread_msg.xml" value="0.22" />
+        <entry key="..\:/Project/AsProject/AndroidPerformanceMonitorMy/app/src/main/res/layout/activity_trace_view.xml" value="0.15625" />
         <entry key="..\:/Project/AsProject/AndroidPerformanceMonitorMy/blockcanary-android/src/main/res/layout/block_canary_ref_row.xml" value="0.14719202898550723" />
         <entry key="..\:/Project/AsProject/AndroidPerformanceMonitorMy/blockcanary-sample/src/main/res/layout/activity_demo.xml" value="0.14719202898550723" />
         <entry key="..\:/Project/AsProject/AndroidPerformanceMonitorMy/blockcanary-sample/src/main/res/layout/activity_main.xml" value="0.14719202898550723" />
